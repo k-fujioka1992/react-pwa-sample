@@ -1,4 +1,4 @@
-import { useRoutes, Outlet, Link } from "react-router-dom";
+import { useRoutes, Link } from "react-router-dom";
 import AppRoutes from "./AppRoutes";
 
 function Main() {
