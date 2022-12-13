@@ -3,6 +3,7 @@ function Page1() {
     <div>
       <p>Page1 Component</p>
       <p>React PWA Sample</p>
+      <p>test comment.</p>
     </div>
   );
 }
